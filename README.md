@@ -9,10 +9,13 @@ Program may be launched in two ways:
 In first case program outputs number of lines in each provided file.
 In second case user inputs desired number of file names into the program, and then program outputs files' number of lines in the same way as in first case. 
 ## Use cases:
+
 * If you're on Linux, you can do so:
-     '''
-     ls -p | grep -v / | ./lc
-     '''
+
+      ls -p | grep -v / | ./lc
+    
 * It you're on Windows, you can do so:
-     dir /A:-D-R /S > lc.exe
+
+      dir /A:-D-R /S > lc.exe
+    
 These commands will make program read every file that is in current directory.
