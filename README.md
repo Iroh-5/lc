@@ -1,4 +1,4 @@
-# lc is a program that (as someone might have guessed) counts lines
+# lc is a program that - as someone might have guessed -  counts lines
 Motives behind this small "project" are simple - I just wanted to be able to measure the amount of lines I've written.
 But I'm sure everyone understands that number of lines of code is awful measure. It is like measuring the quality of plane by its weight.
 ## Functionality:
